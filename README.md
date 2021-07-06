@@ -1,3 +1,4 @@
+## Useful Alerts
 | prefix                                | alert                                 |
 | ------------------------------------- | ------------------------------------- |
 | swbasic                               | Simple Sweet Alert                    |
@@ -19,6 +20,10 @@
 | swrtl                                 | RTL Sweet Alert                       |
 | swajax                                | Ajax Sweet Alert                      |
 | swtoast                               | Toast Sweet Alert                     |
+
+## Input Alerts
+| prefix                                | alert                                 |
+| ------------------------------------- | ------------------------------------- |
 | swinput, swprompt                     | Input/Prompt Data Sweet Alert         |
 | swinput.select                        | Select Data from Dropdown Sweet Alert |
 | swinput.radio                         | Select Data from Radio Sweet Alert    |
@@ -26,6 +31,10 @@
 | swinput.file, swinput.image           | Choose image/file Sweet Alert         |
 | swinput.range                         | Range input Sweet Alert               |
 | swinput.multiple, swinputmultiple     | Multiple input Sweet Alert            |
+
+## Tags
+| prefix                                | Tag                            |
+| ------------------------------------- | ------------------------------------- |
 | sw-template, &lt;template&gt;               | Template Tag Sweet Alert              |
 | sw-title, &lt;swal-title&gt;                | Title Tag Sweet Alert                 |
 | sw-html, &lt;swal-html&gt;                  | HTML Tag Sweet Alert                  |
@@ -36,6 +45,10 @@
 | sw-icon, &lt;swal-icon&gt;                  | Icon Tag Sweet Alert                  |
 | sw-input, &lt;swal-input&gt;                | Input Tag Sweet Alert                 |
 | sw-input-option, &lt;swal-option&gt;        | Input-Option Tag Sweet Alert          |
+
+## Methods
+| prefix                                | Method                                 |
+| ------------------------------------- | ------------------------------------- |
 | Swal.bindClickHandler()               | Swal.bindClickHandler()               |
 | Swal.mixin()                          | Swal.mixin()                          |
 | Swal.isVisible()                      | Swal.isVisible()                      |
@@ -71,7 +84,7 @@
 | Swal.getInput()                       | Swal.getInput()                       |
 | Swal.disableInput()                   | Swal.disableInput()                   |
 | Swal.enableInput()                    | Swal.enableInput()                    |
-| Swal.showValidationMessage(message)   | Swal.showValidationMessage(message)   |
+| Swal.showValidationMessage()   | Swal.showValidationMessage()   |
 | Swal.resetValidationMessage()         | Swal.resetValidationMessage()         |
 | Swal.getValidationMessage()           | Swal.getValidationMessage()           |
 | Swal.isValidParameter()               | Swal.isValidParameter()               |
