@@ -9,6 +9,9 @@
   A snippet extention for <strong>SweetAlert2</strong> 
 </p>
 
+## Snippet Extention for VS Code
+Install From Here [https://marketplace.visualstudio.com/items?itemName=rohit-chouhan.sweetalert2-snippet](https://marketplace.visualstudio.com/items?itemName=rohit-chouhan.sweetalert2-snippet)
+
 Installation
 ------------
 
