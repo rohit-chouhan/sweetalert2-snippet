@@ -1,0 +1,1 @@
+# sweetalert2-snippet
