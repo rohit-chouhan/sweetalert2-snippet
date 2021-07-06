@@ -9,7 +9,6 @@
   A snippet extention for <strong>SweetAlert2</strong> 
 </p>
 
-
 Installation
 ------------
 
@@ -24,6 +23,12 @@ Or grab from [jsdelivr CDN](https://www.jsdelivr.com/package/npm/sweetalert2)
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 ```
 
+
+<p align="center">
+  <a href="#">
+    <img src="https://i.ibb.co/J2gF9P0/ezgif-com-gif-maker.gif" alt="SweetAlert2">
+  </a>
+</p>
 
 
 ## Useful Alerts
