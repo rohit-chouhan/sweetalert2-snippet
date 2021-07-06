@@ -1,3 +1,31 @@
+
+<p align="center">
+  <a href="https://sweetalert2.github.io/">
+    <img src="https://raw.githubusercontent.com/sweetalert2/sweetalert2/master/assets/swal2-logo.png" alt="SweetAlert2">
+  </a>
+</p>
+
+<p align="center">
+  A snippet extention for <strong>SweetAlert2</strong> 
+</p>
+
+
+Installation
+------------
+
+```sh
+npm install --save sweetalert2
+```
+
+Or grab from [jsdelivr CDN](https://www.jsdelivr.com/package/npm/sweetalert2)
+:
+
+```html
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+```
+
+
+
 ## Useful Alerts
 | prefix                                | alert                                 |
 | ------------------------------------- | ------------------------------------- |
@@ -41,7 +69,7 @@
 | sw-footer, &lt;swal-footer&gt;              | Footer Tag Sweet Alert                |
 | sw-param, &lt;swal-param&gt;                | Param Tag Sweet Alert                 |
 | sw-button, &lt;swal-button&gt;              | Button Tag Sweet Alert                |
-| sw-button, &lt;swal-button&gt;              | Image Tag Sweet Alert                 |
+| sw-image, &lt;swal-image&gt;              | Image Tag Sweet Alert                 |
 | sw-icon, &lt;swal-icon&gt;                  | Icon Tag Sweet Alert                  |
 | sw-input, &lt;swal-input&gt;                | Input Tag Sweet Alert                 |
 | sw-input-option, &lt;swal-option&gt;        | Input-Option Tag Sweet Alert          |
@@ -90,3 +118,8 @@
 | Swal.isValidParameter()               | Swal.isValidParameter()               |
 | Swal.isUpdatableParameter()           | Swal.isUpdatableParameter()           |
 
+
+### Note:
+This is un-offical snippet developed by [Rohit Chouhan](https://www.linkedin.com/in/itsrohitchouhan/)
+
+Contact: [me@rohitchouhan.com](mailto:me@rohitchouhan.com)
